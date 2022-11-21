@@ -3,4 +3,4 @@ Designed to help students visualize their algorithms, RAPTOR - Flowchart Interpr
 These flowcharts are proven to help student create better algorithms than by using traditional language or written flowcharts alone. 
 For new students or those that are still developing the basics of programming, RAPTOR is one of the most useful tools available.
 
-[Download RAPTOR](https://raptor.martincarlisle.com/raptor2019.msi)
+[![Download RAPTOR](https://raptor.martincarlisle.com/raptor2019.msi)](https://raptor.martincarlisle.com/VELOC.gif)
