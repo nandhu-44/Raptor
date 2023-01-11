@@ -1,0 +1,16 @@
+## sum-of-factors
+## n-terms-of-fibonacci-series
+## n-terms-of-ap
+## sum-of-n-natural-numbers
+## decimal-equaivalent-of-a-binary-number
+## palindrome
+## reverse-integer
+## n-odd-numbers
+## prime-number-check
+## x-raised-to-n
+## automorphic-number
+## factorial
+## sum-of-seires-upto-n-terms
+## armstrong-number
+## gcd-of-two-numbers
+## sum-and-avg-of-three-numbers
